@@ -1,10 +1,6 @@
 ---
-title: Welcome to Quartz
+title: Laine's Playground
 ---
+Welcome to the Playground.
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-
-
-Testing [[Hello World]]
+Everything here is a WIP, at the moment.
