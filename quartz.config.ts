@@ -24,7 +24,10 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Playfair Display",
+        header: {
+          name: "Playfair Display",
+          includeItalic: true,
+        },
         body: "Figtree",
         code: "IBM Plex Mono",
       },
