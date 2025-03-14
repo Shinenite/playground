@@ -48,3 +48,4 @@ In the future this is where you’ll find me musing on random stuff that I’d l
 > 
 > fascinating.
 
+#graphicdesign #videoediting #motiongraphics
