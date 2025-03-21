@@ -1,4 +1,4 @@
-import { Date, getDate } from "./Date"
+import { Date, getDate, _getDateCustom } from "./Date"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import readingTime from "reading-time"
 import { classNames } from "../util/lang"
@@ -29,9 +29,24 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
     if (text) {
       const segments: (string | JSX.Element)[] = []
 
-      if (fileData.dates) {
-        segments.push(<Date date={getDate(cfg, fileData)!} locale={cfg.locale} />)
-      }
+      if (fileData.dates && fileData.slug !== "index") {
+        segments.push(<>
+           Created: <Date date={_getDateCustom(cfg, fileData, 'created')!} locale={cfg.locale} />
+        </>)
+
+        // Only show the modified date if it's NOT equal to the created date
+        // Extract the actual date values for comparison
+        const datecreatedValue = _getDateCustom(cfg, fileData, 'created');
+        const datemodifiedValue = _getDateCustom(cfg, fileData,'modified');
+        // Compare the actual date values (ignoring the JSX components)
+        const areDatesNotEqual = datecreatedValue?.getTime() !== datemodifiedValue?.getTime();
+        if (areDatesNotEqual) {
+          segments.push(<>
+            Modified: <Date date={_getDateCustom(cfg, fileData,'modified')!} locale={cfg.locale} />
+            </>
+            )
+        }
+      } 
 
       // Display reading time if enabled
       if (options.showReadingTime) {

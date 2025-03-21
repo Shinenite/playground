@@ -1,5 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
+import { QuartzPluginData } from "./quartz/plugins/vfile"
 
 // constant configs
 
@@ -17,12 +18,24 @@ const explorerConfig = {
 }
 
 
+const recentNotesConfig = {
+  showTags: false, 
+  title: "Recently modified notes", 
+  showDate: true,
+  excludeTags: ["recents-exclude"],
+  filter: (f: QuartzPluginData) => !f.slug!.startsWith("tags/") && !f.slug!.endsWith("/index")
+}
+
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
   header: [],
-  afterBody: [],
+  afterBody: [
+    Component.OnlyFor(
+      { titles: ["welcome to my own corner on the web"] },
+      Component.RecentNotes(recentNotesConfig)
+    )], 
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/Shinenite/playground",

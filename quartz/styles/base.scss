@@ -43,7 +43,7 @@ ul,
 .math {
   color: var(--darkgray);
   fill: var(--darkgray);
-  hyphens: auto;
+  hyphens: none;
 }
 
 p,
@@ -123,7 +123,7 @@ a {
 }
 
 .page {
-  max-width: calc(#{map.get($breakpoints, desktop)} + 300px);
+  max-width: calc(#{map.get($breakpoints, desktop)} + 350px);
   margin: 0 auto;
   & article {
     & > h1 {
