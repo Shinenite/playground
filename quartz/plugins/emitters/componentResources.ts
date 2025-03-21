@@ -1,4 +1,4 @@
-import { FilePath, FullSlug, joinSegments } from "../../util/path"
+import { FullSlug, joinSegments } from "../../util/path"
 import { QuartzEmitterPlugin } from "../types"
 
 // @ts-ignore
@@ -9,11 +9,15 @@ import styles from "../../styles/custom.scss"
 import popoverStyle from "../../components/styles/popover.scss"
 import { BuildCtx } from "../../util/ctx"
 import { QuartzComponent } from "../../components/types"
-import { googleFontHref, joinStyles, processGoogleFonts } from "../../util/theme"
+import {
+  googleFontHref,
+  googleFontSubsetHref,
+  joinStyles,
+  processGoogleFonts,
+} from "../../util/theme"
 import { Features, transform } from "lightningcss"
 import { transform as transpile } from "esbuild"
 import { write } from "./helpers"
-import DepGraph from "../../depgraph"
 
 type ComponentResources = {
   css: string[]
@@ -203,9 +207,6 @@ function addGlobalPageResources(ctx: BuildCtx, componentResources: ComponentReso
 export const ComponentResources: QuartzEmitterPlugin = () => {
   return {
     name: "ComponentResources",
-    async getDependencyGraph(_ctx, _content, _resources) {
-      return new DepGraph<FilePath>()
-    },
     async *emit(ctx, _content, _resources) {
       const cfg = ctx.cfg.configuration
       // component specific scripts and styles
@@ -215,8 +216,15 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
         // let the user do it themselves in css
       } else if (cfg.theme.fontOrigin === "googleFonts" && !cfg.theme.cdnCaching) {
         // when cdnCaching is true, we link to google fonts in Head.tsx
-        const response = await fetch(googleFontHref(ctx.cfg.configuration.theme))
+        const theme = ctx.cfg.configuration.theme
+        const response = await fetch(googleFontHref(theme))
         googleFontsStyleSheet = await response.text()
+
+        if (theme.typography.title) {
+          const title = ctx.cfg.configuration.pageTitle
+          const response = await fetch(googleFontSubsetHref(theme, title))
+          googleFontsStyleSheet += `\n${await response.text()}`
+        }
 
         if (!cfg.baseUrl) {
           throw new Error(
@@ -281,19 +289,22 @@ export const ComponentResources: QuartzEmitterPlugin = () => {
           },
           include: Features.MediaQueries,
         }).code.toString(),
-      }),
-        yield write({
-          ctx,
-          slug: "prescript" as FullSlug,
-          ext: ".js",
-          content: prescript,
-        }),
-        yield write({
-          ctx,
-          slug: "postscript" as FullSlug,
-          ext: ".js",
-          content: postscript,
-        })
+      })
+
+      yield write({
+        ctx,
+        slug: "prescript" as FullSlug,
+        ext: ".js",
+        content: prescript,
+      })
+
+      yield write({
+        ctx,
+        slug: "postscript" as FullSlug,
+        ext: ".js",
+        content: postscript,
+      })
     },
+    async *partialEmit() {},
   }
 }
