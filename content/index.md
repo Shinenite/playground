@@ -1,7 +1,25 @@
 ---
-title: Laine's Playground
+title: welcome to my own corner on the web
 description:
 ---
-# _Welcome_
+👋 My name’s Laine (_not_ pronounced as ‘lane’), and this is my small corner for things and stuff. I’m a graphic designer & video editor, but you can look at all that over at my [portfolio](https://lainesdesigned.com/) site if you like.
 
-The always work-in-progress place for me to talk about various things that I think are neat or sharing insights about my projects aside what you saw in the final result (see: [[behind the scenes/]])
+# *what* this place is for
+
+At the moment, I’m not entirely sure! But, I’d like to share thoughts about the things that I’m inspired by/like in general, and also muse on the projects which I work on in my free time. This will likely change as time goes on.
+
+I don’t think I can call this a blog, but I love the idea of a ‘digital garden’ so this will be something of the sort. 
+
+For now, you can check out the [[behind the scenes/]] page to see some musing on projects, and maybe soon something else, too!
+
+# *why* did i make it
+
+Social media is something that I always have conflicting feelings about, especially in the modern landscape, and I thought that I would want to loosen up those feelings by experimenting with something more freeform and personal. As a kid, I always enjoyed making little websites, so in a way I am trying to channel my inner child. 
+
+Other than that, I think that everyone should try to make their own little space on the internet! It doesn’t have to be fancy. 
+
+At first, the idea for this website was something super ugly, just pure html posts and chaos. I might still play around with that in some way, though in the end I settled upon using quartz as a baseline to create this website, as it connects well with Obsidian which I’ve been using as a note taking platform for a while now. 
+
+However, even Obsidian is something I find myself not that good at using “properly”, with links and all, so this was also a place for me to challenge myself with that. 
+
+(also shoutout to my friend [lizz](https://crescentfool.github.io/blog/) for being my buddy in this type of stuff! I’m excited to see what we will cook here.)
