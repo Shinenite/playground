@@ -3,6 +3,7 @@ description: My experience with LABASAD Barcelona School of Arts & Design
 draft: false
 tags:
   - graphicdesign
+  - creative
 created: 2025-03-21
 modified:
 ---

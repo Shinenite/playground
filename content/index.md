@@ -12,7 +12,7 @@ I don’t think I can call this a blog, but I love the idea of a ‘digital gard
 
 For now, you can check out the [[behind the scenes/]] page to see some musing on projects, and maybe soon something else, too!
 
-# *why* did i make it
+# *why* it was made
 
 Social media is something that I always have conflicting feelings about, especially in the modern landscape, and I thought that I would want to loosen up those feelings by experimenting with something more freeform and personal. As a kid, I always enjoyed making little websites, so in a way I am trying to channel my inner child. 
 

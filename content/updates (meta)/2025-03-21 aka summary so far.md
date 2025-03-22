@@ -1,8 +1,7 @@
 ---
 description: 
 draft: false
-tags:
-  - meta
+tags: []
 created: 2025-03-21
 ---
 
