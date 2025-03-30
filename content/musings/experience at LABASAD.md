@@ -4,6 +4,7 @@ draft: false
 tags:
   - graphicdesign
   - creative
+  - selfImprovement
 created: 2025-03-21
 modified:
 ---
