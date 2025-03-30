@@ -1,3 +1,4 @@
+import { title } from "node:process"
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 import { QuartzPluginData } from "./quartz/plugins/vfile"
@@ -23,8 +24,10 @@ const recentNotesConfig = {
   title: "Recently modified notes", 
   showDate: true,
   excludeTags: ["recents-exclude"],
-  filter: (f: QuartzPluginData) => !f.slug!.startsWith("tags/") && !f.slug!.endsWith("/index")
+  filter: 
+  (f: QuartzPluginData) => !f.slug!.startsWith("tags/") && !f.slug!.endsWith("/index") && !f.filePath!.endsWith("index.md")
 }
+
 
 
 // components shared across all pages

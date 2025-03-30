@@ -1,6 +1,9 @@
 ---
 title: welcome to my own corner on the web
-description:
+description: 
+tags: 
+aliases:
+  - homepage
 ---
 👋 My name’s Laine (_not_ pronounced as ‘lane’), and this is my small corner for things and stuff. I’m a graphic designer & video editor, but you can look at all that over at my [portfolio](https://lainesdesigned.com/) site if you like.
 
