@@ -37,9 +37,11 @@ Oh Well.
 
 Mayhaps in the future this project will turn into it’s own little sub-section! I could see that happening, also.
 
-# How it’s going 
+# How it’s going (last updated: 02/04/2025)
 
-I’m here writing this post, and I have drafted my tasks. Stay tuned for more.
+I asked a friend to pick the first task and I’ve filmed some bits. 
+
+Spoilers, but… The first task was actually concerning this place. Which is fitting, as I’ve also been writing this post. lol.
 
 
 
