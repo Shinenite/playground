@@ -9,14 +9,14 @@ import * as Plugin from "./quartz/plugins"
 const config: QuartzConfig = {
   configuration: {
     pageTitle: "hello there",
-    pageTitleSuffix: " | Laine's Playground",
+    pageTitleSuffix: " | Laine's Garden",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "playground.lainesdesigned.com",
+    baseUrl: "garden.lainesdesigned.com",
     ignorePatterns: ["private", "templates", ".obsidian",],
     defaultDateType: "modified",
     theme: {
