@@ -1,13 +1,9 @@
 ---
-description: getting myself to un-avoid tasks that I've been avoiding
+description: 
 draft: false
-tags:
-  - creative
-  - selfImprovement
-created: 2025-03-30
+title: avoidance journey
 ---
-
-technically, i’m making this “behind the scenes” note for a project which i haven’t even started, but who cares, I make the Rules Here. my city now.
+this started off as a “behind the scenes” note for a project which i haven’t even started, but now it will just continue as it’s own thing
 
 # What is an _Avoidance Journey_
 
@@ -17,7 +13,7 @@ great question. I’ve been following this lovely lady – Jen Butler [@jenbutle
 
 one of my favorite things that she does is the Avoidance Journey series. Long story short, the setup is that she decided that she can’t keep avoiding doing tasks that could get her closer to her dreams, so she put down 30(!) tasks and covered them up with numbers, asked her friends/family to pick numbers for her, and then documenting herself doing the tasks.
 
-## Why I also need to do an avoidance journey
+## Why I _also_ need to do an avoidance journey
 
 i’ve been doing a lot of musing recently due to an experience I had watching a local talk from a book designer… I realized he was living my dream. Unfortunately, I knew that reaching his position wouldn’t be an easy task.
 
@@ -25,7 +21,7 @@ Since then I have been racking my brain over it. I know I should be doing more, 
 
 Following Jen on her journey has been such an inspiring thing for me, (also shoutout to Volume Control, her amazing book) so as she recently finished her own and made a video with her reflections, conveniently after my recent realization to realize my dreams, I keep thinking to myself that **I gotta do one myself.**
 
-## How it will work
+## _How_ it will work
 
 Ok, unlike Jen, I am NOT doing 30 tasks. That’s a whole LOT. I would have to really expand the horizons. After some thinking, I decided to do 12. It seemed like a reasonable enough number…. 
 
@@ -37,13 +33,21 @@ Oh Well.
 
 Mayhaps in the future this project will turn into it’s own little sub-section! I could see that happening, also.
 
-# How it’s going (last updated: 02/04/2025)
+# How it’s _going_
 
-I asked a friend to pick the first task and I’ve filmed some bits. 
+Here’s the list of things I am doing, click to find out more…
 
-Spoilers, but… The first task was actually concerning this place. Which is fitting, as I’ve also been writing this post. lol.
+1. ???
+2. ???
+3. ???
+4. ???
+5. ???
+6. ???
+7. [[brainstorm potential digital garden notes]] (revealed 02/04/25)
+8. ???
+9. ???
+10. ???
+11. ???
+12. ???
 
-
-
-
-
+***

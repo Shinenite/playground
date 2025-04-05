@@ -3,6 +3,19 @@ title:
 draft: true
 tags:
 ---
+# potential tags
+
+already existing
+#graphicdesign 
+#selfImprovement 
+#misccreative 
+
+nice to have
+#motiongraphics 
+#bookdesign
+#printproduction
+#favoritethings
+#tech
 
 # quartz commands 
 

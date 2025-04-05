@@ -11,7 +11,7 @@ Okay this note is just somewhat of a rant, but I felt like putting it here becau
 
 Anyways, of all the social media I’ve ever used, I find that instagram is the one I am always SO conflicted about. Why? Well, because in some ways I like it, but in others it just makes me feel like crawling out of my skin.  
 
-Will this be a topic I touch upon in the [[avoidance journey]] ?? maybe. We’ll see.
+Will this be a topic I touch upon in the [[avoidance journey – the intro]] ?? maybe. We’ll see.
 
 # _history_ of the vibes
 
@@ -79,7 +79,7 @@ To start, I think having a bit of a revision of my approach to it would be nice.
 - As I said, I like the story format a lot! I want to lean into it. I’d like to come up with new highlight categories and put my stuff there… a little bit more often? 
 	- (brb, I’m gonna post a story right now, honestly!)
 - If I do go on there to Consume content, try to get the more inspiring/good vibe from it rather than the doomscroll there
-- While I plan to document the [[avoidance journey]] on YouTube, mostly, if I feel really good about it for a while we could do a little cheeky crossposting. Mayhaps.
+- While I plan to document the [[avoidance journey – the intro]] on YouTube, mostly, if I feel really good about it for a while we could do a little cheeky crossposting. Mayhaps.
 - Gotta share the portfolio on there, man. At least as a story. THE VERY LEAST. 
 	- This place, if I’m feeling bold….
 

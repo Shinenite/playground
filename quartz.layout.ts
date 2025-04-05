@@ -15,7 +15,16 @@ const explorerConfig = {
         node.displayName = "🔸 " + node.displayName
     }
   },
-  folderDefaultState: "open", 
+  sortFn: (a: FileNode, b: FileNode) => {
+    const dateA = a.file?.frontmatter?.["date modified"]
+      ? new Date(a.file.frontmatter["date modified"])
+      : new Date(0);
+    const dateB = b.file?.frontmatter?.["date modified"]
+      ? new Date(b.file.frontmatter["date modified"])
+      : new Date(0);
+    return dateB.getTime() - dateA.getTime(); 
+  },
+  folderDefaultState: "close", 
 }
 
 
@@ -90,5 +99,11 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer(explorerConfig),
   ],
-  right: [],
+  right: [
+    Component.OnlyFor(
+      { titles: ["avoidance journey"] },
+      Component.DesktopOnly(Component.TableOfContents()),
+      Component.Backlinks(),
+    )
+  ],
 }
