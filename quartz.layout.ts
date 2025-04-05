@@ -24,7 +24,7 @@ const explorerConfig = {
       : new Date(0);
     return dateB.getTime() - dateA.getTime(); 
   },
-  folderDefaultState: "close", 
+  folderDefaultState: "collapsed", 
 }
 
 
