@@ -1,5 +1,5 @@
 ---
-description: My experience with LABASAD Barcelona School of Arts & Design
+description: my experience with LABASAD Barcelona School of Arts & Design
 draft: false
 tags:
   - graphicdesign

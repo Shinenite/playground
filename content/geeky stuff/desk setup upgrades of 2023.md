@@ -1,11 +1,12 @@
 ---
-description: 
+description: an abandoned video idea outline about my desk setups and the upgrade I did back in 2023
 draft: false
 tags:
   - tech
 created: 2025-04-05
 ---
-(This is a part of the [[brainstorm potential digital garden notes]] task in the [[avoidance journey/index|avoidance journey]] because one of the things I said to do was to “Extract something dead from the personal vault”)
+> [!note]- Note
+> (This is a part of the [[brainstorm digital garden notes]] task in the [[avoidance journey/index|avoidance journey]]  to “Extract something dead from the personal vault”)
 
 # Did you know? 
 
@@ -64,9 +65,10 @@ Well, I still have the hundreds of pictures I took of myself doing my computer s
 
 So this is just the part of the video which would have had that. Here’s one frame out of context: 
 
-![[IMG_20231210_101444.jpg]]
+> [!example] _Yes, of course my back hurt the next day. Why do you ask?_
+> ![[IMG_20231210_101444.jpg]]
 
-_Yes, of course my back hurt the next day. Why do you ask?_
+
 
 ## before and afters
 

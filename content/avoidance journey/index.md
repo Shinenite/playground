@@ -33,6 +33,10 @@ Oh Well.
 
 Mayhaps in the future this project will turn into it’s own little sub-section! I could see that happening, also.
 
+## _TLDR_ in a video format
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L0u0VwBdydY?si=hE15DZc7d49KBRKK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # How it’s _going_
 
 Here’s the list of things I am doing, click to find out more…
@@ -43,7 +47,7 @@ Here’s the list of things I am doing, click to find out more…
 4. ???
 5. ???
 6. ???
-7. [[brainstorm potential digital garden notes]] (revealed 02/04/25)
+7. [[brainstorm digital garden notes]] (revealed 02/04/25)
 8. ???
 9. ???
 10. ???
