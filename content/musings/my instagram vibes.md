@@ -11,7 +11,7 @@ Okay this note is just somewhat of a rant, but I felt like putting it here becau
 
 Anyways, of all the social media I’ve ever used, I find that instagram is the one I am always SO conflicted about. Why? Well, because in some ways I like it, but in others it just makes me feel like crawling out of my skin.  
 
-Will this be a topic I touch upon in the [[avoidance journey – the intro]] ?? maybe. We’ll see.
+~~Will this be a topic I touch upon in the [[avoidance journey/]] ?? maybe. We’ll see.~~ Yes we will, kind of! Because I decided to face my little brain being weird about instagram (see below) and just post about it on there too. Shoutout to the first picked task [[brainstorm digital garden notes]] which also forced me to share the place on there.
 
 # _history_ of the vibes
 
@@ -67,7 +67,7 @@ And here’s the things that are scary:
 	-  Also, even though I do appreciate that people I am acquainted with irl can see my posts, it is, also, scary.  
 
 
-# what I could _Do_
+# what I could _Do_ 
 
 Well, actually post on there, I suppose.
 
@@ -79,10 +79,21 @@ To start, I think having a bit of a revision of my approach to it would be nice.
 - As I said, I like the story format a lot! I want to lean into it. I’d like to come up with new highlight categories and put my stuff there… a little bit more often? 
 	- (brb, I’m gonna post a story right now, honestly!)
 - If I do go on there to Consume content, try to get the more inspiring/good vibe from it rather than the doomscroll there
-- While I plan to document the [[avoidance journey – the intro]] on YouTube, mostly, if I feel really good about it for a while we could do a little cheeky crossposting. Mayhaps.
+- While I plan to document the [[avoidance journey/]] on YouTube, mostly, if I feel really good about it for a while we could do a little cheeky crossposting. Mayhaps.
 - Gotta share the portfolio on there, man. At least as a story. THE VERY LEAST. 
 	- This place, if I’m feeling bold….
 
 Will it happen? I don’t know! Depends. 
 
-I’m leaving it here for now, though.
+# updated Thoughts 
+
+Having posted a bit recently, I also started thinking a bit about how my profile page is very portfolio-y and how I kinda wanna stray away from that. Not only because sharing work on Meta is scary because the world is so GenAI focused these days, but also because I think it is important to have different purposes for these spaces.
+
+I hope I think about it some more later, but at the moment I feel that:
+- although it is a bit intimidating, I will share [[avoidance journey/]] tidbits on instagram, as well
+- having more loose posts on there would be interesting, not just portfolio type things.
+- there is an urge for me to nuke everything I have on there, but I am trying to resist. 
+
+Same as the above heading though. Will this happen, I don’t know! Depends. 
+
+Stay tuned for more updates on this, maybe. 

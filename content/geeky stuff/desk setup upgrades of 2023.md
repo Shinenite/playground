@@ -5,9 +5,6 @@ tags:
   - tech
 created: 2025-04-05
 ---
-> [!note]- Note
-> (This is a part of the [[brainstorm digital garden notes]] task in the [[avoidance journey/index|avoidance journey]]  to “Extract something dead from the personal vault”)
-
 # Did you know? 
 
 This actually was something I planned to make a video about. 
@@ -94,3 +91,5 @@ But is it like, perfect? Nah. There’s stuff sticking out here and there. Whate
 
 So having a video like that would be fun. Maybe I should do it, even if it is ‘late’.
 
+> [!note] Note
+> (This is a part of the [[brainstorm digital garden notes]] task in the [[avoidance journey/index|avoidance journey]]  to “Extract something dead from the personal vault”)

@@ -3,7 +3,7 @@ description:
 draft: false
 title: avoidance journey
 ---
-this started off as a “behind the scenes” note for a project which i haven’t even started, but now it will just continue as it’s own thing
+this started off as a “behind the scenes” note for a project which i haven’t even finished, but now it will just continue as it’s own thing because this is all i will center my life around for now, yay!
 
 # What is an _Avoidance Journey_
 
@@ -47,11 +47,13 @@ Here’s the list of things I am doing, click to find out more…
 4. ???
 5. ???
 6. ???
-7. [[brainstorm digital garden notes]] (revealed 02/04/25)
+7. [[brainstorm digital garden notes]] (revealed 02/04/25) 
 8. ???
 9. ???
 10. ???
 11. ???
 12. ???
+
+(note that the reveal and completion dates will not match when you see me upload the videos about it, as, obviously, the videos are somewhat of a backlog)
 
 ***
