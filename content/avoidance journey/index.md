@@ -43,7 +43,7 @@ Here’s the list of things I am doing, click to find out more…
 
 1. ???
 2. ???
-3. ???
+3. [[socialize for collaborations]] (revealed 09/04/25)
 4. ???
 5. ???
 6. ???
