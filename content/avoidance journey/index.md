@@ -42,7 +42,7 @@ Mayhaps in the future this project will turn into it’s own little sub-section!
 Here’s the list of things I am doing, click to find out more…
 
 1. ???
-2. ???
+2. [[seek mentorship]] (revealed 16/04/25)
 3. [[socialize for collaborations]] (revealed 09/04/25)
 4. ???
 5. ???
@@ -54,6 +54,6 @@ Here’s the list of things I am doing, click to find out more…
 11. ???
 12. ???
 
-(note that the reveal and completion dates will not match when you see me upload the videos about it, as, obviously, the videos are somewhat of a backlog)
+(note that the reveal will not match when you see me upload the videos about it, as, obviously, the videos are somewhat of a backlog)
 
 ***

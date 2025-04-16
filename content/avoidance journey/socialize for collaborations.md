@@ -37,3 +37,23 @@ Anyways, I’m getting a bit off track, but what I am trying to say here is that
 I really am way too in my head about this. I wish I could fake-it-til-I-make-it but I just cannot. I gotta approach it differently. I gotta do it in a way that makes sense for me. 
 
 Though.. I cannot be too upset at myself right now, as this whole thing I am doing RIGHT NOW is already a way I am trying to put myself out there, be authentic, and all of that good stuff. 
+
+# the conclusion
+
+The post on this task was kinda just all vibes based. I think it was all very emotionally charged and All That. It’s okay though!
+
+I’m very proud of how I articulated myself in the [[socialize for collaborations#^ytevix|completion video]] for the task. Sometimes it’s not about doing things but realizing things as a result. And that is a result worth having, too. (speaking of, I made a page for [[the results]] of the journey which I will try to also keep updating as I go on! For now it is pretty short, though.)
+
+But seriously, I think there’s much I am already doing, and needing to be kind to myself. It’s interesting watching back the video where I was just having a bad vibe day, as I really never COMPLETELY voice the feelings that annoy me the most, but it also feels just a little too personal to do so.
+
+The fine line of “how much to put myself out there” and “nobody look at me” was so extremely thin here. But I suppose that’s just what being human is like, no?
+
+It is extremely amusing to me though that now that I feel so fired up to MAKE things and PUSH IT OUT THERE, I keep pulling tasks that aren’t exactly about that. See [[seek mentorship]]. Oh well!
+
+# the videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uVCARf-LU-w?si=DXfTSIxJ4C4YLOl_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2gw4OJKEZkg?si=0k5-GoDA49WGsH50" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IMVMkMQ5Bkg?si=6leav-lHqadncydy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> ^ytevix
