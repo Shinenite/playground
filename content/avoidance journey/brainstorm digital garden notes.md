@@ -28,7 +28,6 @@ However, that did give me the evidence, once again, that writing things down is 
 
 I’d like to hope that this will be another good companion for me that I will not abandon!!!
 
-
 # the videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hDDxRzWUISg?si=FhUD4X1Ubywijb-y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
