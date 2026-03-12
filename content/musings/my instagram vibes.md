@@ -1,7 +1,8 @@
 ---
 description: a bit of an overview of my relationship with Instagram
 draft: false
-tags: 
+tags:
+  - vent
 created: 2025-04-02
 ---
 

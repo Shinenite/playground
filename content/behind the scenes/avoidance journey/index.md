@@ -3,11 +3,13 @@ description:
 draft: false
 title: avoidance journey
 ---
-this started off as a “behind the scenes” note for a project which i haven’t even finished, but now it will just continue as it’s own thing because this is all i will center my life around for now, yay!
+~~this started off as a “behind the scenes” note for a project which i haven’t even finished, but now it will just continue as it’s own thing because this is all i will center my life around for now, yay!~~
+
+2026 UPDATE: Well… it did center my life for some amount of time. And then it fizzled. As things do, thanks to the ADHD brain. I still did push myself out of the comfort zone, and eventually just did things without “choosing” a note.
 
 # What is an _Avoidance Journey_
 
-ok, silly intro aside, what is this even about you may ask! 
+what is this even about you may ask! 
 
 great question. I’ve been following this lovely lady – Jen Butler [@jenbutlersays](https://linktr.ee/jenbutlersays) – who I feel like I relate to in a lot of ways. I love how honest and authentic she is, even about the times she feels awful about it (me too, except, I’m not even as far as she is)
 
@@ -39,21 +41,20 @@ Mayhaps in the future this project will turn into it’s own little sub-section!
 
 # How it’s _going_
 
-Here’s the list of things I am doing, click to find out more…
+Here’s the list of things I have done thus far… but honestly. I am not keeping up very much with this. Why? Because a lot of these… I started doing by themselves. Eventually. Some have very detailed pages on what’s what, while some will be. To The Point.
 
-1. ???
-2. [[seek mentorship]] (revealed 16/04/25)
-3. [[socialize for collaborations]] (revealed 09/04/25)
+1. [[LinkedIn Plans]] 
+2. [[seek mentorship]] 
+3. [[socialize for collaborations]] 
 4. ???
 5. ???
-6. ???
-7. [[brainstorm digital garden notes]] (revealed 02/04/25) 
+6. [[creative direct a project]]
+7. [[brainstorm digital garden notes]] 
 8. ???
-9. ???
-10. ???
-11. [[digital cleaning]] (revealed 24/04/25)
+9. [[make a long-form video]]
+10. organize shelf
+11. [[digital cleaning (zine)]] 
 12. ???
 
-(note that the reveal will not match when you see me upload the videos about it, as, obviously, the videos are somewhat of a backlog)
 
 ***

@@ -46,4 +46,12 @@ So, I will be extracting bits and things that I think are fun or memorable or \[
 
 I’ve got many ideas in my head swirling around, and it is exciting, but I think first I need to. You Know. Get started on this, and then see how it shapes. 
 
-To not overwhelm myself too much on “how will this thing be structured” for now I will have a note on Obsidian where I’m just gonna throw whatever I think is notable enough as a “manuscript” for this project. Should be interesting! 
+To not overwhelm myself too much on “how will this thing be structured” for now I will have a note on Obsidian where I’m just gonna throw whatever I think is notable enough as a “manuscript” for this project. Should be interesting!
+
+# Conclusion
+
+Well hey! I completed my digital cleaning a while back. And then made a whole zine about it. Which I also submitted to the local zine festival. Fun!
+
+You can download and check out the zine over at [itch.io](https://lainesdesigned.itch.io/10-years-of-digital-stuff)
+
+![[square-gif.gif]]

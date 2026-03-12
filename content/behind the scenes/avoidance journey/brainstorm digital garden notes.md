@@ -22,7 +22,7 @@ While I like this place being away from all the social media expectations that w
 
 And also looking past the general task of “share this place”, it also faced me out of the funk for instagram I have (which I hope to continue???)
 
-So, that aside, I really enjoyed writing about [[desk setup upgrades of 2023]] and this makes me want to check out some more of my scrapped video ideas, although to be honest there aren’t really any more that were actually outlined like this (aside the web design rant, which I mention in [[portfolio retrospective]]). 
+So, that aside, I really enjoyed writing about [[desk setup upgrades of 2023]] and this makes me want to check out some more of my scrapped video ideas, although to be honest there aren’t really any more that were actually outlined like this (aside the web design rant, which I mention in [[2025 portfolio retrospective]]). 
 
 However, that did give me the evidence, once again, that writing things down is good and I should continue to do so. (shocking, I know.)
 

@@ -1,7 +1,7 @@
 ---
-description: 
+description:
 draft: true
-tags: 
-created:
+tags:
+created: <% tp.date.now() %>
 ---
 

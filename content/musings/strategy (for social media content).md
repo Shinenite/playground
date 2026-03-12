@@ -1,10 +1,12 @@
 ---
 description: a little bit of frustration for putting yourself out there
 draft: false
-tags: 
+tags:
+  - vent
 created: 2025-05-03
 title: '"strategy" (for social media content)'
 ---
+# Initial Vent
 
 So many times, I try to listen to tips about personal branding, ways to create compelling stories, all that. And yet, I can never get the “strategy” to NOT go over my head.
 
@@ -33,3 +35,19 @@ That is not worth it, to me.
 But it sucks, because a little sad voice tells me, that it wishes I would, so that I was seen.
 
 Gotta keep on trucking on, though. Doing it the way I think it is worth doing.
+
+# Self Response in March 2026
+
+Dusting off this digital garden after a year of a hiatus it was a little fun to come across this note. I think a year and a genuine investment into LinkedIn later, I still do agree with this, but maybe with a different perspective. 
+
+Fun how things change but not entirely, huh?
+
+I still do feel some bit of envy. I think a lot of it is more connected to having connections rather than making numbers on a social media platform, now, though!
+
+As for strategy and following advice… yeah. I still consider myself quite contrarian. If it doesn’t appeal to me, chances are, I will not do it cause I want to do it differently! … Which is why I am here, writing on a personal page nobody knows about, instead of on social media 👀
+
+I do sometimes wonder though how it’d be nice to go all out with the advice people give.
+
+But then again. I have a full time job. And projects to juggle. And a chronically ill body to take care of. So who knows whether I even could go ‘all out’, realistically.
+
+I hope the “aha!” moment comes through soon enough, though.
