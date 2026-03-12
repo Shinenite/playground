@@ -9,7 +9,7 @@ created: 2025-04-05
 
 This actually was something I planned to make a video about. 
 
-I even made a mock-up thumbnail because at the time I needed to make a mockup for my [[portfolio retrospective|portfolio]] and I needed 3 videos but I only had 2. 
+I even made a mock-up thumbnail because at the time I needed to make a mockup for my [[2025 portfolio retrospective|portfolio]] and I needed 3 videos but I only had 2. 
 
 ![[Pasted image 20250405130615.png]]
 
@@ -92,4 +92,4 @@ But is it like, perfect? Nah. There’s stuff sticking out here and there. Whate
 So having a video like that would be fun. Maybe I should do it, even if it is ‘late’.
 
 > [!note] Note
-> (This is a part of the [[brainstorm digital garden notes]] task in the [[avoidance journey/index|avoidance journey]]  to “Extract something dead from the personal vault”)
+> (This is a part of the [[brainstorm digital garden notes]] task in the [[behind the scenes/avoidance journey/index|avoidance journey]]  to “Extract something dead from the personal vault”)

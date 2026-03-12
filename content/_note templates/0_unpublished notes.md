@@ -19,8 +19,8 @@ nice to have
 
 # quartz commands 
 
-npx quartz sync
-npx quartz build --serve --port 9090
+```npx quartz sync```
+```npx quartz build --serve --port 9090```
 
 
 # lizz laundry list thx 

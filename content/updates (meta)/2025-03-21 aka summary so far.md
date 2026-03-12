@@ -17,7 +17,7 @@ I didn’t get the idea of doing changelogs until today so this is more of a rec
 
 # actually changed today
 - Made the sidebar width on the left bigger. (also right but I wish I could seperate them.)
-- Actually wrote a few notes! Woohoo. [[portfolio retrospective]] is more finalized (but not finished) 
+- Actually wrote a few notes! Woohoo. [[2025 portfolio retrospective]] is more finalized (but not finished) 
 - Added recent notes to the homepage (unfortunately I am not able to remove the index note from there :( )
 - Disabled hyphenation (maybe I will turn it back on though. who knows!)
 - Added modified date to each of the notes along with created (once more based off [Eilleen’s Quartz blog](https://quartz.eilleeenz.com/))

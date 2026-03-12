@@ -51,7 +51,7 @@ and somehow lizz went and took it as a challenge … (read their retro on that w
 It took a few more months for us to finally double down, but by December 2024, we actually Committed to it. 
 - Even though I had the mockup ready, there was a lot of work still to be done (mainly, actually updating the work list and making sure I have material to present, every creative’s favorite part of creating portfolios, of course)
 - So, having a full time job and doing this more for the enrichment of my own dreams that aren’t 100% related to the usual career things, my progress on the realization was sort of slow
-- Thankfully, most of the things that I had to change in the mockup I only had to change the desktop version of, as I immediately told lizz I would NOT bother with the tablet and mobile mockups anymore ([[portfolio retrospective#^k1ef00|responsive design my enemy]]) and I’d just leave it to them to interpret the design in their own way for those.
+- Thankfully, most of the things that I had to change in the mockup I only had to change the desktop version of, as I immediately told lizz I would NOT bother with the tablet and mobile mockups anymore ([[2025 portfolio retrospective#^k1ef00|responsive design my enemy]]) and I’d just leave it to them to interpret the design in their own way for those.
 - By mid-February I’d finished up all my project assets. The biggest roadblock was actually my most recent project, Xenoblade Compendium, as due to shipping issues I didn’t get my copy until much much later than anyone else. (very sad)
 - And then, now in March, came the final finishing touches!
 
