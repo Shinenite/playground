@@ -20,3 +20,8 @@ Seems great, but paid :(
 
 https://creativepro.com/perfectpreptext-a-smart-way-to-style-local-formatting/
 Seems intimidating, but probably good
+
+# Optimize links
+
+https://zevrix.com/linkoptimizer/
+Another paid option, and arguably not as important given PDFs can have export settings to them that do this for you. But might be useful!

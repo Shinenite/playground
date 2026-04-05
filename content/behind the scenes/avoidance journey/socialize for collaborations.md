@@ -42,7 +42,7 @@ Though.. I cannot be too upset at myself right now, as this whole thing I am doi
 
 The post on this task was kinda just all vibes based. I think it was all very emotionally charged and All That. It’s okay though!
 
-I’m very proud of how I articulated myself in the [[socialize for collaborations#^ytevix|completion video]] for the task. Sometimes it’s not about doing things but realizing things as a result. And that is a result worth having, too. (speaking of, I made a page for [[the results]] of the journey which I will try to also keep updating as I go on! For now it is pretty short, though.)
+I’m very proud of how I articulated myself in the [[socialize for collaborations#^ytevix|completion video]] for the task. Sometimes it’s not about doing things but realizing things as a result. And that is a result worth having, too. 
 
 But seriously, I think there’s much I am already doing, and needing to be kind to myself. It’s interesting watching back the video where I was just having a bad vibe day, as I really never COMPLETELY voice the feelings that annoy me the most, but it also feels just a little too personal to do so.
 

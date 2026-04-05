@@ -1,7 +1,7 @@
 ---
 description: things I have achieved as a result of this journey!!!
-draft: false
-tags: 
+draft: true
+tags:
 created: 2025-04-14
 ---
 - Shared this avoidance journey with people on Instagram I was not sure about and they were NICE!

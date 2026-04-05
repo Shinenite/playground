@@ -1,7 +1,8 @@
 ---
-description: 
+description:
 draft: false
 title: avoidance journey
+created: 2025-03-20
 ---
 ~~this started off as a “behind the scenes” note for a project which i haven’t even finished, but now it will just continue as it’s own thing because this is all i will center my life around for now, yay!~~
 
@@ -46,15 +47,15 @@ Here’s the list of things I have done thus far… but honestly. I am not keepi
 1. [[LinkedIn Plans]] 
 2. [[seek mentorship]] 
 3. [[socialize for collaborations]] 
-4. ???
-5. ???
-6. [[creative direct a project]]
+4. [[Print Knowledge share]]
+5. market research (basically) (i’m working on it)
+6. [[creative direct a project]] (in progress)
 7. [[brainstorm digital garden notes]] 
-8. ???
+8. Actually Publish My [Latvian Gaming Memoirs](https://lainesdesigned.com/work/latvian-gaming-memoirs.html) Book. (this is not happening for a while.)
 9. [[make a long-form video]]
 10. organize shelf
 11. [[digital cleaning (zine)]] 
-12. ???
+12. Reflect on the Avoidance Journey (meta) (this whole page is basically it tbh)
 
 
 ***
