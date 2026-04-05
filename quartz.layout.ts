@@ -47,7 +47,28 @@ export const sharedPageComponents: SharedLayout = {
     Component.OnlyFor(
       { titles: ["welcome to my own corner on the web"] },
       Component.RecentNotes(recentNotesConfig)
-    )], 
+	 ), 
+	 Component.OnlyFor(
+      { titles: ["welcome to my own corner on the web"] },
+	Component.Comments({
+		provider: 'giscus',
+		options: {
+		// from data-repo
+		repo: 'Shinenite/playground',
+		// from data-repo-id
+		repoId: 'R_kgDOOFRF5',
+		// from data-category
+		category: 'Announcements',
+		// from data-category-id
+		categoryId: 'DIC_kwDOOFRF5M4C6HwV',
+		mapping: "specific",
+		strict: false,
+		reactionsEnabled: false,
+		inputPosition: "top",
+		term: "Guestbook"
+	  }})
+	  ), 
+    ], 
   footer: Component.Footer({
     links: {
       GitHub: "https://github.com/Shinenite/playground",
