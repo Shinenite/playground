@@ -13,7 +13,11 @@ At the moment, I’m not entirely sure! But, I’d like to share thoughts about 
 
 I don’t think I can call this a blog, but I love the idea of a ‘digital garden’ so this will be something of the sort. 
 
-For now, you can check out the [[behind the scenes/]] page to see some musing on projects, or general [[musings/]] with no particular thread of topic tying it and also whatever me back in the spring of 2025 was up to because most of the content current here is from then.
+For now on the sidebar you can view the following categories; 
+- [[behind the scenes/]] to see some musing on projects 
+- [[geeky stuff/]] for tech, software and sometimes hardware musings
+- general [[musings/]] with no particular thread of topic tying it (and also whatever me back in the spring of 2025 was up to because most of the content current here is from then)
+- [[updates (meta)/]] which is just a changelog for this website and some additional thought process on things
 
 # *why* it was made
 

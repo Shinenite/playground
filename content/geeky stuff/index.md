@@ -1,7 +1,7 @@
 ---
-description: 
+description:
 draft: false
-tags: 
+tags:
 title: geeky stuff
 ---
 I mean, I think this one’s self explanatory.

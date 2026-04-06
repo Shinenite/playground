@@ -6,7 +6,7 @@ tags:
 created: 2025-05-03
 title: '"strategy" (for social media content)'
 ---
-# Initial Vent
+# Initial Vent (May 2026)
 
 So many times, I try to listen to tips about personal branding, ways to create compelling stories, all that. And yet, I can never get the “strategy” to NOT go over my head.
 
