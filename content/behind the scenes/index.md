@@ -1,7 +1,8 @@
 ---
-description: 
+description:
 draft: false
-tags: 
+tags:
+  - selfImprovement
 title: behind the scenes
 ---
 Various notes about my projects – drafts, insights, etc.!
