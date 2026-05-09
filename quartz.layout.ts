@@ -29,6 +29,7 @@ const explorerConfig = {
 
 
 const recentNotesConfig = {
+  limit: 5,
   showTags: false, 
   title: "Recently modified notes", 
   showDate: true,

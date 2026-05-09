@@ -62,7 +62,7 @@ Second, I run the [[InDesign workflow for keeping formatting#Auto Create P and C
 > The Auto Create Style script DOES NOT seem to work on text in Tables. As such I use [[InDesign workflow for keeping formatting#TablesToText]] to convert them to text if applicable
 
 > [!warning] Warning
-> As there is little documentation and it seems somewhat of an older script, it can be a bit tempramental. I’ve found it doesn’t like it when 
+> As there is little documentation and it seems somewhat of an older script, it can be a bit temperamental. I’ve found it doesn’t like it when 
 > - there’s missing fonts, so that is why in the import I make sure to fix any missing ones, 
 > - there are styles named AutoStyle already (so, you’ve run it before) (I use [GREP Batch Rename Styles](https://payhip.com/b/Vr1gs) to fix this)
 >
