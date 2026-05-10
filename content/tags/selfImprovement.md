@@ -1,6 +1,6 @@
 ---
 title: "#selfImprovement"
-draft: false
+draft: true
 description: Posts related to various self improvement topics
 ---
 ***

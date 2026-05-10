@@ -30,12 +30,12 @@ to be honest, all you need to know about my relationship with modern web design 
 ## Winter of 2023-2024
 *aka getting acquainted with Figma*
 
-- Another thing I did in 2023 aside from switching jobs was also enrolling in a year long study program at [LABASAD](experience at LABASAD). As I felt I wanted a little bit of formal education on graphic design on top of my work experience and professional degree in print production design.
+- Another thing I did in 2023 aside from switching jobs was also enrolling in a year long study program at [[experience at LABASAD|LABASAD]]. As I felt I wanted a little bit of formal education on graphic design on top of my work experience and professional degree in print production design.
 - One of the modules there was website design (which I dreaded.) and the “mini” assignment of the module was to create a mockup of your own portfolio site in Figma to get more acquainted with the software.
 - In the end, I spent more time with the portfolio “mini” assignment than my final work for the module, but while Auto Layout was a hellish thing to learn, and planning everything out was, too, at least on Figma it was just a mockup (although, the mapping of pages for the effect of filters for my works page was a major pain.)
 - If my time with Wix got me frustrated with responsive design, my experience with Figma just further cemented the frustration. Responsive design is a cool tech, I can’t lie, but god dammit I miss when I was a kid and I could just screw around in some basic html and css while using a custom website platform like [ucoz](https://web.archive.org/web/20090705234856/http://www.ucoz.com/) and not have to worry about how things will look on phones and tablets!!!
 
-![[bafkreig3kk45dp2gf5gj2mwsnqafclxdtnwid7dr6fmi7d2w5zrupezrqa.jpg]] ^k1ef00
+![[bafkreig3kk45dp2gf5gj2mwsnqafclxdtnwid7dr6fmi7d2w5zrupezrqa.jpg]]
 
 - With the mockup behind me, and having learned the principles of web design in more detail which, was interesting enough, I suppose, of course many of my coursemates had been intrigued by actually making these mockups we all made realized on the web. 
 - But at the time, it wasn’t a priority for me. I just was happy I’d made a somewhat nice looking mockup from scratch and I never wanted to think about it ever again. But it was good to know it was there, just in case!

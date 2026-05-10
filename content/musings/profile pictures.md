@@ -2,7 +2,7 @@
 description: thoughts about profile pictures and how I dislike the pressure of them
 draft: false
 tags:
-  - misccreative
+  - creative
 created: 2025-03-21
 ---
 

@@ -16,7 +16,7 @@ https://github.com/InDesign-Scripts/releaseAnchoredObjects
 
 # Automating character style application
 
-see [[InDesign workflow for keeping formatting#What Scripts are included in Style Prep]]
+see [[InDD workflow for keeping formatting#What Scripts are included in Style Prep]]
 # Optimize links
 
 https://zevrix.com/linkoptimizer/

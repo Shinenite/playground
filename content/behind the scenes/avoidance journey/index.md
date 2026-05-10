@@ -49,12 +49,12 @@ Here’s the list of things I have done thus far… but honestly. I am not keepi
 3. [[socialize for collaborations]] 
 4. [[Print Knowledge share]]
 5. market research (basically) (i’m working on it)
-6. [[creative direct a project]] (in progress)
+6. [[creative direct a project]] aka [[Tenna Project]] (in progress)
 7. [[brainstorm digital garden notes]] 
 8. Actually Publish My [Latvian Gaming Memoirs](https://lainesdesigned.com/work/latvian-gaming-memoirs.html) Book. (this is not happening for a while.)
-9. [[make a long-form video]]
+9. [[video game manual retro|make a long form video]]
 10. organize shelf
-11. [[digital cleaning (zine)]] 
+11. [[digital cleaning (zine)|digital cleaning]] 
 12. Reflect on the Avoidance Journey (meta) (this whole page is basically it tbh)
 
 

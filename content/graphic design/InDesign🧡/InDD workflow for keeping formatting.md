@@ -54,12 +54,12 @@ Here is also where you can run your preferred GREP Find/Changes, such as to remo
 
 ## 2. Script clean-up
 
-First, I run [[InDesign workflow for keeping formatting#Style Characters]], which creates the base styles that need to be kept.
+First, I run [[InDD workflow for keeping formatting#Style Characters]], which creates the base styles that need to be kept.
 
-Second, I run the [[InDesign workflow for keeping formatting#Auto Create P and C styles]] script.
+Second, I run the [[InDD workflow for keeping formatting#Auto Create P and C styles]] script.
 
 > [!info] Info
-> The Auto Create Style script DOES NOT seem to work on text in Tables. As such I use [[InDesign workflow for keeping formatting#TablesToText]] to convert them to text if applicable
+> The Auto Create Style script DOES NOT seem to work on text in Tables. As such I use [[InDD workflow for keeping formatting#TablesToText]] to convert them to text if applicable
 
 > [!warning] Warning
 > As there is little documentation and it seems somewhat of an older script, it can be a bit temperamental. I’ve found it doesn’t like it when 

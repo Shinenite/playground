@@ -1,8 +1,10 @@
 ---
-description: 
+description:
 draft: false
-tags: 
+tags:
 title: musings
+aliases:
+  - musings
 ---
 Notes on me reflecting about things
 

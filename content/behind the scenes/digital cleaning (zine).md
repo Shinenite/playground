@@ -1,10 +1,11 @@
 ---
 description: there are 10 years worth of files i need to go through
 draft: false
-tags: 
+tags:
+  - bookdesign
 created: 2025-04-26
 ---
-
+This zine was made because of the [[avoidance journey/]] task for digital cleaning, but it evolved past that, so I've moved it out of the folder!
 # the ~~first impression~~ motivation
 
 Ok, fine, I can’t call this the first impression because this task was picked by the context of my circumstances of myself upgrading my computer. But I will frame it as not having picked it myself. LOL

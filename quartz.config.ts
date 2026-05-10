@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: {
-          name: "Playfair Display",
+          name: "Alegreya",
           includeItalic: true,
         },
         body: "Figtree",

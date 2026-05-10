@@ -2,12 +2,13 @@
 description:
 draft: false
 tags:
-  - graphicdesign
   - videoediting
+  - bookdesign
 created: 2026-03-12
 ---
+Originally part of [[avoidance journey/]] as a "make a long-form video" task.
 
-Inspired by the project I am doing for [[creative direct a project]], I made a video yapping about video game manuals. Cause it is fun. 
+Inspired by [[Tenna Project]] which I am doing for [[creative direct a project]], I made a video yapping about video game manuals. Cause it is fun. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/U76hsTwVWCg?si=k_xBNbtmkD2zasvE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 

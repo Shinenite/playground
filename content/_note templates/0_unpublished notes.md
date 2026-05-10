@@ -3,25 +3,12 @@ title:
 draft: true
 tags:
 ---
-# potential tags
-
-already existing
-#graphicdesign 
-#selfImprovement 
-#misccreative 
-
-nice to have
-#motiongraphics 
-#bookdesign
-#printproduction
-#favoritethings
-#tech
+<[shortcut to folder](<file:///D:\GitHub\playground>)>
 
 # quartz commands 
 
-```npx quartz sync```
-```npx quartz build --serve --port 9090```
-
+npx quartz sync
+npx quartz build --serve --port 9090
 
 # lizz laundry list thx 
 

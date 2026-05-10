@@ -3,10 +3,9 @@ description:
 draft: false
 tags:
   - printproduction
-  - graphicdesign
 created: 2026-04-05
 ---
-I didn’t realize but I actually did complete this one by accident, albeit not in the scale I intended.
+I didn’t realize but I actually did complete this [[avoidance journey/]] task by accident, albeit not in the scale I intended.
 
 A while back I had a chat with someone who was asking people to teach them about a topic of their own choosing, with a quick walkthrough. So obviously, I chose Print Production. (very predictable of me, of course!)
 

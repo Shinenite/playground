@@ -3,6 +3,7 @@ description: how does my first from-scratch keyboard build hold up?
 draft: false
 tags:
   - tech
+  - videoediting
 created: 2026-05-08
 ---
 # The Backstory
