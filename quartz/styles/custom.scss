@@ -1,3 +1,22 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+//Page Titlle changes to be bigger and in italics
+.page-title {
+  font-size: 2rem;
+  font-style: italic;
+  font-weight: 800;
+  font-optical-sizing: auto;
+}
+
+//Alegerya numbers fix
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+thead {
+  font-variant-numeric: lining-nums;
+}
