@@ -114,7 +114,7 @@ plugins:
       useThemeFonts: true
       fontOrigin: googleFonts
       header: 
-        Name: Alegreya
+        name: Alegreya
         includeItalic: true
       body: Figtree
       code: IBM Plex Mono
@@ -234,8 +234,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/Shinenite/playground
+        Portfolio: https://lainesdesigned.com/
   - source: github:quartz-community/recent-notes
     enabled: false
   - source: github:quartz-community/spacer

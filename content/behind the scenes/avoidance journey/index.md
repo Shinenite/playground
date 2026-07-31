@@ -6,7 +6,9 @@ created: 2025-03-20
 ---
 ~~this started off as a “behind the scenes” note for a project which i haven’t even finished, but now it will just continue as it’s own thing because this is all i will center my life around for now, yay!~~
 
-2026 UPDATE: Well… it did center my life for some amount of time. And then it fizzled. As things do, thanks to the ADHD brain. I still did push myself out of the comfort zone, and eventually just did things without “choosing” a note.
+# 2026 UPDATE 
+
+Well… it did center my life for some amount of time. And then it fizzled. As things do, thanks to the ADHD brain. I still did push myself out of the comfort zone, and eventually just did things without “choosing” a note.
 
 # What is an _Avoidance Journey_
 

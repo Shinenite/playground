@@ -10,6 +10,17 @@
   font-optical-sizing: auto;
 }
 
+//Explorer heading fix
+.folder-container div>a {
+  font-size:1.05rem;
+  font-weight:800;
+  display:inline-block
+}
+//Explorer non heading smaller size
+.explorer-content ul li>a {
+  font-size:.95rem;
+}
+
 //Alegerya numbers fix
 h1,
 h2,
