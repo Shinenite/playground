@@ -237,7 +237,16 @@ plugins:
         GitHub: https://github.com/Shinenite/playground
         Portfolio: https://lainesdesigned.com/
   - source: github:quartz-community/recent-notes
-    enabled: false
+    enabled: true
+    options:
+      title: Recently updated
+      limit: 3
+      showTags: false
+      linkToMore: "_secrets/all-notes.base"
+    layout:
+      position: afterBody
+      priority: 25
+      condition: index-only
   - source: github:quartz-community/spacer
     enabled: true
     options: {}

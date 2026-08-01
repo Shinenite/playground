@@ -10,11 +10,12 @@
   font-optical-sizing: auto;
 }
 
-//Explorer heading fix
+//Explorer heading fix + lowercase
 .folder-container div>a {
   font-size:1.05rem;
   font-weight:800;
-  display:inline-block
+  display:inline-block;
+  text-transform: lowercase;
 }
 //Explorer non heading smaller size
 .explorer-content ul li>a {
@@ -31,3 +32,4 @@ h6,
 thead {
   font-variant-numeric: lining-nums;
 }
+
