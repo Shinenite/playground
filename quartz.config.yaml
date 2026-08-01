@@ -83,6 +83,7 @@ plugins:
     layout:
       position: right
       priority: 30
+      condition: not-index
   - source: github:quartz-community/crawl-links
     enabled: true
     options:
@@ -163,6 +164,8 @@ plugins:
     enabled: true
   - source: github:quartz-community/explorer
     enabled: true
+    options:
+      folderDefaultState: "open" # "collapsed" or "open"
     layout:
       position: left
       priority: 50
@@ -171,6 +174,7 @@ plugins:
     layout:
       position: right
       priority: 10
+      condition: not-index
   - source: github:quartz-community/search
     enabled: true
     layout:
@@ -239,14 +243,13 @@ plugins:
   - source: github:quartz-community/recent-notes
     enabled: true
     options:
-      title: Recently updated
+      title: Posts
       limit: 3
       showTags: false
-      linkToMore: "_secrets/all-notes.base"
+      linkToMore: "posts"
     layout:
-      position: afterBody
-      priority: 25
-      condition: index-only
+      position: left
+      priority: 45
   - source: github:quartz-community/spacer
     enabled: true
     options: {}
@@ -264,11 +267,9 @@ plugins:
     options:
       includeAll: false
       includedProperties:
-        - description
         - tags
-        - aliases
       excludedProperties: []
-      hidePropertiesView: true
+      hidePropertiesView: false
       delimiters: ---
       language: yaml
     order: 5

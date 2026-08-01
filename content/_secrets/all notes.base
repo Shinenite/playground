@@ -9,9 +9,12 @@ views:
         - draft == false
         - file.name != "index"
     order:
-      - file.name
       - modified
+      - file.name
     sort:
       - property: modified
-        direction: DESC
+        direction: ASC
     cardSize: 800
+    indentProperties: false
+    separator: "| "
+    markers: none
