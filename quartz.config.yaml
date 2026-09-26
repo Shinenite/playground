@@ -239,7 +239,8 @@ plugins:
     options:
       links:
         GitHub: https://github.com/Shinenite/playground
-        Portfolio: https://lainesdesigned.com/
+        Links: https://links.lainesdesigned.com/
+        Website: https://lainesdesigned.com/
   - source: github:quartz-community/recent-notes
     enabled: true
     options:

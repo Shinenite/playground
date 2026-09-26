@@ -3,7 +3,6 @@ description: documentation of the cocktail of scripts I use to keep formatting o
 draft: false
 tags:
   - indesign
-  - design
 created: 2026-05-09
 ---
 # Intro blabbing

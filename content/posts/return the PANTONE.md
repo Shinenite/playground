@@ -2,7 +2,6 @@
 description:
 draft: false
 tags:
-  - design
   - indesign
 created: 2026-04-05
 ---

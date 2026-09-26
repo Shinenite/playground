@@ -5,6 +5,16 @@ tags:
 created: 
 modified:
 ---
+- finish [[games i played in 2026]]
+- make a portfolio archive
+	- xenoblade tarot project
+	- flow
+	- older zine projs, maybe?
+	- wedding planner
+	- 
+
+
+# OLD
 
 - labasad thoughts
 - wix pains (web design scrapped video)

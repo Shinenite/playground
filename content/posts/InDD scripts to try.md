@@ -3,7 +3,6 @@ description: my own little bookmark space but more intentional
 draft: false
 tags:
   - indesign
-  - design
 created: 2026-03-12
 ---
 
