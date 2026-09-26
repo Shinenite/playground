@@ -84,10 +84,12 @@ But honestly. It's a lot of fun. I should do all perfects in other games, too.
 Toby Fox cooking as usual! I've always been more in the casual camp of Deltarune fans, but nevertheless it was a good time. Unfortunately, I am a platformer hater, so I struggled HARD with some of the gameplay in this one. But nevertheless, the story is shaping up well and I'm excited for the rest. And I also got to go deep in the fan theories on youtube for a while after which was fun lol
 # To The Moon
 
-This has been in my steam library forever and I've always heard good things about this game from my longtime mutuals [Enkou](https://bsky.app/profile/sirenoa.bsky.social) and Rin. While on sick leave, I finally sat down and [played](https://bsky.app/profile/rinkara.me) it and it was SUCH a good experience. I loved the light gameplay elements, and the story it told. I very much would like to play the other games in the series too, but I'm waiting on a sale first, lol.
+This has been in my steam library forever and I've always heard good things about this game from my longtime mutuals [Enkou](https://bsky.app/profile/sirenoa.bsky.social) and [Rin](https://bsky.app/profile/rinkara.me). While on sick leave, I finally sat down and played it and it was SUCH a good experience. I loved the light gameplay elements, and the story it told. I very much would like to play the other games in the series too, but I'm waiting on a sale first, lol.
 
 # VA-11 HALL-A
 
-As I recieved my VA-11 HALL-A Design Works copy, (written by [Ashley Schofield](https://ashlikeadragon.bearblog.dev/)) the book that introduced me to Lost In Cult, one of the most inspiring publishers out there to me right now, and started reading it, I realized... It has been almost 10 years since my first playthrough of this game. So, I picked it up again because reading as to how it came by got me feeling bad that I don't quite recall the experience as well as I should.
+As I recieved my [VA-11 HALL-A Design Works](https://www.lostincult.co.uk/va11halla) copy, (written by [Ashley Schofield](https://ashlikeadragon.bearblog.dev/)) the book that introduced me to Lost In Cult, one of the most inspiring publishers out there to me right now, and started reading it, I realized... It has been almost 10 years since my first playthrough of this game. So, I picked it up again because reading as to how it came by got me feeling bad that I don't quite recall the experience as well as I should.
 
 Still currently in progress in playing, but it's been such a comforting experience. Same as FFX, I have had this long-time fond-ness for this game, despite not having played it in forever, and I absolutely see why.
+
+Despite being just at the beginning of the game, it feels like I've been here before, like I've known these characters forever, and it's just... comfortable and fun. The world is so compelling and the characters are great. 

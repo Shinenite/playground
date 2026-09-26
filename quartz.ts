@@ -37,6 +37,12 @@ ExternalPlugin.Explorer({
   sortFn,
 })
 
+ExternalPlugin.RecentNotes({
+    filter: (file) => !["index", "posts/index"].includes(file.slug!)&&
+    !file.slug!.startsWith("tags/")&&
+    !file.slug!.startsWith("updates-(meta)/"),
+})
+
 const config = await loadQuartzConfig()
 export default config
 export const layout = await loadQuartzLayout()
