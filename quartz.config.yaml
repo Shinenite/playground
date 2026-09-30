@@ -5,7 +5,7 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-    { provider: 'goatcounter', websiteId: 'lainesdesigned' }
+    { provider: 'goatcounter', websiteId: 'lainesdesignedgarden' }
   locale: en-US
   baseUrl: garden.lainesdesigned.com
   ignorePatterns:
