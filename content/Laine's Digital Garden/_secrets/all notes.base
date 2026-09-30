@@ -1,0 +1,20 @@
+formulas:
+  Untitled: ""
+  Untitled 2: ""
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - draft == false
+        - file.name != "index"
+    order:
+      - modified
+      - file.name
+    sort:
+      - property: modified
+        direction: ASC
+    cardSize: 800
+    indentProperties: false
+    separator: "| "
+    markers: none
