@@ -20,7 +20,7 @@ In the future I also plan to create a section that is a sort of an archive for m
 
 # *why* it was made
 
-Social media is something that I always have conflicting feelings about, especially in the modern landscape, and I figured I could loosen up those feelings by experimenting with something more freeform and personal. As a kid, I always enjoyed making little websites, so, in a way, this is an attempt to channel my inner child. 
+Social media is something that I always have conflicting feelings about, especially in the modern landscape, and I figured I could loosen up those feelings by experimenting with something more freeform and personal. As a kid, I always enjoyed making little websites, so, in a way, this is an attempt to channel my inner child..
 
 I have also been told by people that apparently my writing is appealing to them? But I personally am not someone who gravitates towards writing, especially if it comes with a bunch of expectations like it often does on social media!
 
