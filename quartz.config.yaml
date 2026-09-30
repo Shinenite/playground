@@ -5,11 +5,7 @@ configuration:
   enableSPA: true
   enablePopovers: true
   analytics:
-<<<<<<< HEAD
-    { provider: 'goatcounter', websiteId: 'lainesdesignedgarden'} 
-=======
     { provider: 'goatcounter', websiteId: 'lainesdesignedgarden' }
->>>>>>> 78658f4a7914223a4acc0ff778d47834f4c3087f
   locale: en-US
   baseUrl: garden.lainesdesigned.com
   ignorePatterns:
